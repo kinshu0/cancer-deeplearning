@@ -21,7 +21,9 @@ wget --content-disposition https://wiki.cancerimagingarchive.net/download/attach
 
 # Lesion Reference Images Test
 
-https://app.box.com/s/7jn4jtd3pbi9rlurc4pvnkx554lnfljw
+wget --content-disposition ttps://app.box.com/s/7jn4jtd3pbi9rlurc4pvnkx554lnfljw
 
 
-unzip *
+unzip ProstateX-TestLesionInformation.zip
+
+unzip ProstateX-TrainingLesionInformationv2.zip
